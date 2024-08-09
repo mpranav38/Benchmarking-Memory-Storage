@@ -1,3 +1,7 @@
+
+#Project is Done in 2 languages Python and RUST
+
+
 This project aims to teach you about file I/O and benchmarking. You can use any of the following languages
 to implement this assignment: Python, Java, C, C++, Rust; doing your implementation in C, C++, or Rust
 will get you up to 10% extra credit pointsfor efficient implementations. You can use any libraries (e.g. STL,
