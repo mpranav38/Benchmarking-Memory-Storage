@@ -15,9 +15,13 @@ be defined in C as follows:
 #define NONCE_SIZE 6
 
 #define HASH_SIZE 10
+
 // Structure to hold a 16-byte record
+
 typedef struct {
+
 uint8_t hash[HASH_SIZE]; // hash value as byte array
+
 uint8_t nonce[NONCE_SIZE]; // Nonce value as byte array
 #
 Your file should be 1GB (SMALL) or 64GB (LARGE) in size when your benchmark completes (64GB =
