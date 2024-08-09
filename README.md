@@ -13,6 +13,7 @@ Your benchmark will use a 6-byte NONCE to generate 2^26 (SMALL) or 2^32 (LARGE) 
 be defined in C as follows:
 
 #define NONCE_SIZE 6
+
 #define HASH_SIZE 10
 // Structure to hold a 16-byte record
 typedef struct {
