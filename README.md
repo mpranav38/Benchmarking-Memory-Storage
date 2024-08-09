@@ -11,7 +11,7 @@ o Paper: https://github.com/BLAKE3-team/BLAKE3-specs/blob/master/blake3.pdf
 Your benchmark will use a 6-byte NONCE to generate 2^26 (SMALL) or 2^32 (LARGE) BLAKE3 hashes of
 10-bytes long each and store them in a file on disk in sorted order (sorted by 12-byte hash). A record could
 be defined in C as follows:
-#
+
 #define NONCE_SIZE 6
 #define HASH_SIZE 10
 // Structure to hold a 16-byte record
