@@ -1,0 +1,1134 @@
+bash run_experiments.sh
+
+Number of hash threads: 1
+
+Number of sort threads: 1
+
+Number of write threads: 1
+
+Filename: experiment_results/data1.bin
+
+Memory size: 128MB
+
+File size: 1024MB
+
+Record size: 16B
+
+Hash size: 10B
+
+Nonce size: 6B
+
+[hashgen0]: 100.00% completed
+
+Hash time: 137.0452 seconds
+
+Sort time: 78.4715 seconds
+
+Write time: 31.9282 seconds
+
+Total time: 247.4449 seconds
+
+
+
+Number of hash threads: 1
+
+Number of sort threads: 1
+
+Number of write threads: 4
+
+Filename: experiment_results/data2.bin
+
+Memory size: 128MB
+
+File size: 1024MB
+
+Record size: 16B
+
+Hash size: 10B
+
+Nonce size: 6B
+
+[hashgen0]: 100.00% completed
+
+Hash time: 130.1673 seconds
+
+Sort time: 78.8096 seconds
+
+Write time: 29.6514 seconds
+
+Total time: 238.6284 seconds
+
+
+
+Number of hash threads: 1
+
+Number of sort threads: 1
+
+Number of write threads: 16
+
+Filename: experiment_results/data3.bin
+
+Memory size: 128MB
+
+File size: 1024MB
+
+Record size: 16B
+
+Hash size: 10B
+
+Nonce size: 6B
+
+[hashgen0]: 100.00% completed
+
+Hash time: 131.7306 seconds
+
+Sort time: 79.5993 seconds
+
+Write time: 30.0814 seconds
+
+Total time: 241.4112 seconds
+
+
+
+Number of hash threads: 1
+
+Number of sort threads: 4
+
+Number of write threads: 1
+
+Filename: experiment_results/data4.bin
+
+Memory size: 128MB
+
+File size: 1024MB
+
+Record size: 16B
+
+Hash size: 10B
+
+Nonce size: 6B
+
+[hashgen0]: 100.00% completed
+
+Hash time: 130.7200 seconds
+
+Sort time: 79.5730 seconds
+
+Write time: 29.4225 seconds
+
+Total time: 239.7154 seconds
+
+
+
+Number of hash threads: 1
+
+Number of sort threads: 4
+
+Number of write threads: 4
+
+Filename: experiment_results/data5.bin
+
+Memory size: 128MB
+
+File size: 1024MB
+
+Record size: 16B
+
+Hash size: 10B
+
+Nonce size: 6B
+
+[hashgen0]: 100.00% completed
+
+Hash time: 136.8523 seconds
+
+Sort time: 76.9398 seconds
+
+Write time: 29.0743 seconds
+
+Total time: 242.8663 seconds
+
+
+
+Number of hash threads: 1
+
+Number of sort threads: 4
+
+Number of write threads: 16
+
+Filename: experiment_results/data6.bin
+
+Memory size: 128MB
+
+File size: 1024MB
+
+Record size: 16B
+
+Hash size: 10B
+
+Nonce size: 6B
+
+[hashgen0]: 100.00% completed
+
+Hash time: 135.9440 seconds
+
+Sort time: 79.6281 seconds
+
+Write time: 29.8338 seconds
+
+Total time: 245.4060 seconds
+
+
+
+Number of hash threads: 1
+
+Number of sort threads: 16
+
+Number of write threads: 1
+
+Filename: experiment_results/data7.bin
+
+Memory size: 128MB
+
+File size: 1024MB
+
+Record size: 16B
+
+Hash size: 10B
+
+Nonce size: 6B
+
+[hashgen0]: 100.00% completed
+
+Hash time: 130.9243 seconds
+
+Sort time: 77.3967 seconds
+
+Write time: 28.9186 seconds
+
+Total time: 237.2396 seconds
+
+
+
+Number of hash threads: 1
+
+Number of sort threads: 16
+
+Number of write threads: 4
+
+Filename: experiment_results/data8.bin
+
+Memory size: 128MB
+
+File size: 1024MB
+
+Record size: 16B
+
+Hash size: 10B
+
+Nonce size: 6B
+
+[hashgen0]: 100.00% completed
+
+Hash time: 139.9186 seconds
+
+Sort time: 80.2817 seconds
+
+Write time: 29.6460 seconds
+
+Total time: 249.8463 seconds
+
+
+
+Number of hash threads: 1
+
+Number of sort threads: 16
+
+Number of write threads: 16
+
+Filename: experiment_results/data9.bin
+
+Memory size: 128MB
+
+File size: 1024MB
+
+Record size: 16B
+
+Hash size: 10B
+
+Nonce size: 6B
+
+[hashgen0]: 100.00% completed
+
+Hash time: 130.8998 seconds
+
+Sort time: 77.9477 seconds
+
+Write time: 29.0146 seconds
+
+Total time: 237.8621 seconds
+
+
+
+Number of hash threads: 4
+
+Number of sort threads: 1
+
+Number of write threads: 1
+
+Filename: experiment_results/data10.bin
+
+Memory size: 128MB
+
+File size: 1024MB
+
+Record size: 16B
+
+Hash size: 10B
+
+Nonce size: 6B
+
+[hashgen1]: 100.00% completed
+
+[hashgen0]: 100.00% completed
+
+[hashgen2]: 100.00% completed
+
+[hashgen3]: 100.00% completed
+
+Hash time: 231.1099 seconds
+
+Sort time: 77.1598 seconds
+
+Write time: 27.5502 seconds
+
+Total time: 335.8198 seconds
+
+
+
+Number of hash threads: 4
+
+Number of sort threads: 1
+
+Number of write threads: 4
+
+Filename: experiment_results/data11.bin
+
+Memory size: 128MB
+
+File size: 1024MB
+
+Record size: 16B
+
+Hash size: 10B
+
+Nonce size: 6B
+
+[hashgen2]: 100.00% completed
+
+[hashgen3]: 100.00% completed
+
+[hashgen1]: 100.00% completed
+
+[hashgen0]: 100.00% completed
+
+Hash time: 253.8172 seconds
+
+Sort time: 78.3967 seconds
+
+Write time: 28.1225 seconds
+
+Total time: 360.3365 seconds
+
+
+
+Number of hash threads: 4
+
+Number of sort threads: 1
+
+Number of write threads: 16
+
+Filename: experiment_results/data12.bin
+
+Memory size: 128MB
+
+File size: 1024MB
+
+Record size: 16B
+
+Hash size: 10B
+
+Nonce size: 6B
+
+[hashgen0]: 100.00% completed
+
+[hashgen3]: 100.00% completed
+
+[hashgen2]: 100.00% completed
+
+[hashgen1]: 100.00% completed
+
+Hash time: 230.6234 seconds
+
+Sort time: 76.8609 seconds
+
+Write time: 28.1479 seconds
+
+Total time: 335.6322 seconds
+
+
+
+Number of hash threads: 4
+
+Number of sort threads: 4
+
+Number of write threads: 1
+
+Filename: experiment_results/data13.bin
+
+Memory size: 128MB
+
+File size: 1024MB
+
+Record size: 16B
+
+Hash size: 10B
+
+Nonce size: 6B
+
+[hashgen2]: 100.00% completed
+
+[hashgen3]: 100.00% completed
+
+[hashgen0]: 100.00% completed
+
+[hashgen1]: 100.00% completed
+
+Hash time: 231.6734 seconds
+
+Sort time: 76.7990 seconds
+
+Write time: 27.7380 seconds
+
+Total time: 336.2104 seconds
+
+
+
+Number of hash threads: 4
+
+Number of sort threads: 4
+
+Number of write threads: 4
+
+Filename: experiment_results/data14.bin
+
+Memory size: 128MB
+
+File size: 1024MB
+
+Record size: 16B
+
+Hash size: 10B
+
+Nonce size: 6B
+
+[hashgen2]: 100.00% completed
+
+[hashgen1]: 100.00% completed
+
+[hashgen3]: 100.00% completed
+
+[hashgen0]: 100.00% completed
+
+Hash time: 231.3673 seconds
+
+Sort time: 77.3117 seconds
+
+Write time: 27.7850 seconds
+
+Total time: 336.4641 seconds
+
+
+
+Number of hash threads: 4
+
+Number of sort threads: 4
+
+Number of write threads: 16
+
+Filename: experiment_results/data15.bin
+
+Memory size: 128MB
+
+File size: 1024MB
+
+Record size: 16B
+
+Hash size: 10B
+
+Nonce size: 6B
+
+[hashgen1]: 100.00% completed
+
+[hashgen0]: 100.00% completed
+
+[hashgen2]: 100.00% completed
+
+[hashgen3]: 100.00% completed
+
+Hash time: 255.6099 seconds
+
+Sort time: 77.2722 seconds
+
+Write time: 27.9341 seconds
+
+Total time: 360.8162 seconds
+
+
+
+Number of hash threads: 4
+
+Number of sort threads: 16
+
+Number of write threads: 1
+
+Filename: experiment_results/data16.bin
+
+Memory size: 128MB
+
+File size: 1024MB
+
+Record size: 16B
+
+Hash size: 10B
+
+Nonce size: 6B
+
+[hashgen1]: 100.00% completed
+
+[hashgen0]: 100.00% completed
+
+[hashgen3]: 100.00% completed
+
+[hashgen2]: 100.00% completed
+
+Hash time: 254.3145 seconds
+
+Sort time: 76.6533 seconds
+
+Write time: 27.8760 seconds
+
+Total time: 358.8438 seconds
+
+
+
+Number of hash threads: 4
+
+Number of sort threads: 16
+
+Number of write threads: 4
+
+Filename: experiment_results/data17.bin
+
+Memory size: 128MB
+
+File size: 1024MB
+
+Record size: 16B
+
+Hash size: 10B
+
+Nonce size: 6B
+
+[hashgen1]: 100.00% completed
+
+[hashgen3]: 100.00% completed
+
+[hashgen2]: 100.00% completed
+
+[hashgen0]: 100.00% completed
+
+Hash time: 229.4293 seconds
+
+Sort time: 77.5745 seconds
+
+Write time: 28.0017 seconds
+
+Total time: 335.0055 seconds
+
+
+
+Number of hash threads: 4
+
+Number of sort threads: 16
+
+Number of write threads: 16
+
+Filename: experiment_results/data18.bin
+
+Memory size: 128MB
+
+File size: 1024MB
+
+Record size: 16B
+
+Hash size: 10B
+
+Nonce size: 6B
+
+[hashgen3]: 100.00% completed
+
+[hashgen0]: 100.00% completed
+
+[hashgen1]: 100.00% completed
+
+[hashgen2]: 100.00% completed
+
+Hash time: 230.7824 seconds
+
+Sort time: 77.1978 seconds
+
+Write time: 27.6603 seconds
+
+Total time: 335.6405 seconds
+
+
+
+Number of hash threads: 16
+
+Number of sort threads: 1
+
+Number of write threads: 1
+
+Filename: experiment_results/data19.bin
+
+Memory size: 128MB
+
+File size: 1024MB
+
+Record size: 16B
+
+Hash size: 10B
+
+Nonce size: 6B
+
+[hashgen2]: 100.00% completed
+
+[hashgen9]: 100.00% completed
+
+[hashgen13]: 100.00% completed
+
+[hashgen4]: 100.00% completed
+
+[hashgen15]: 100.00% completed
+
+[hashgen3]: 100.00% completed
+
+[hashgen8]: 100.00% completed
+
+[hashgen6]: 100.00% completed
+
+[hashgen14]: 100.00% completed
+
+[hashgen1]: 100.00% completed
+
+[hashgen11]: 100.00% completed
+
+[hashgen10]: 100.00% completed
+
+[hashgen5]: 100.00% completed
+
+[hashgen0]: 100.00% completed
+
+[hashgen7]: 100.00% completed
+
+[hashgen12]: 100.00% completed
+
+Hash time: 241.0801 seconds
+
+Sort time: 77.7194 seconds
+
+Write time: 28.4127 seconds
+
+Total time: 347.2122 seconds
+
+
+
+Number of hash threads: 16
+
+Number of sort threads: 1
+
+Number of write threads: 4
+
+Filename: experiment_results/data20.bin
+
+Memory size: 128MB
+
+File size: 1024MB
+
+Record size: 16B
+
+Hash size: 10B
+
+Nonce size: 6B
+
+[hashgen2]: 100.00% completed
+
+[hashgen1]: 100.00% completed
+
+[hashgen5]: 100.00% completed
+
+[hashgen9]: 100.00% completed
+
+[hashgen14]: 100.00% completed
+
+[hashgen12]: 100.00% completed
+
+[hashgen13]: 100.00% completed
+
+[hashgen8]: 100.00% completed
+
+[hashgen7]: 100.00% completed
+
+[hashgen4]: 100.00% completed
+
+[hashgen3]: 100.00% completed
+
+[hashgen10]: 100.00% completed
+
+[hashgen6]: 100.00% completed
+
+[hashgen11]: 100.00% completed
+
+[hashgen0]: 100.00% completed
+
+[hashgen15]: 100.00% completed
+
+Hash time: 215.6048 seconds
+
+Sort time: 76.5618 seconds
+
+Write time: 27.7484 seconds
+
+Total time: 319.9150 seconds
+
+
+
+Number of hash threads: 16
+
+Number of sort threads: 1
+
+Number of write threads: 16
+
+Filename: experiment_results/data21.bin
+
+Memory size: 128MB
+
+File size: 1024MB
+
+Record size: 16B
+
+Hash size: 10B
+
+Nonce size: 6B
+
+[hashgen7]: 100.00% completed
+
+[hashgen3]: 100.00% completed
+
+[hashgen1]: 100.00% completed
+
+[hashgen15]: 100.00% completed
+
+[hashgen6]: 100.00% completed
+
+[hashgen13]: 100.00% completed
+
+[hashgen4]: 100.00% completed
+
+[hashgen11]: 100.00% completed
+
+[hashgen8]: 100.00% completed
+
+[hashgen5]: 100.00% completed
+
+[hashgen2]: 100.00% completed
+
+[hashgen0]: 100.00% completed
+
+[hashgen9]: 100.00% completed
+
+[hashgen12]: 100.00% completed
+
+[hashgen10]: 100.00% completed
+
+[hashgen14]: 100.00% completed
+
+Hash time: 215.8525 seconds
+
+Sort time: 76.8701 seconds
+
+Write time: 27.6069 seconds
+
+Total time: 320.3294 seconds
+
+
+
+Number of hash threads: 16
+
+Number of sort threads: 4
+
+Number of write threads: 1
+
+Filename: experiment_results/data22.bin
+
+Memory size: 128MB
+
+File size: 1024MB
+
+Record size: 16B
+
+Hash size: 10B
+
+Nonce size: 6B
+
+[hashgen9]: 100.00% completed
+
+[hashgen4]: 100.00% completed
+
+[hashgen11]: 100.00% completed
+
+[hashgen10]: 100.00% completed
+
+[hashgen1]: 100.00% completed
+
+[hashgen5]: 100.00% completed
+
+[hashgen2]: 100.00% completed
+
+[hashgen8]: 100.00% completed
+
+[hashgen7]: 100.00% completed
+
+[hashgen13]: 100.00% completed
+
+[hashgen14]: 100.00% completed
+
+[hashgen0]: 100.00% completed
+
+[hashgen3]: 100.00% completed
+
+[hashgen12]: 100.00% completed
+
+[hashgen6]: 100.00% completed
+
+[hashgen15]: 100.00% completed
+
+Hash time: 215.6232 seconds
+
+Sort time: 76.6335 seconds
+
+Write time: 27.9960 seconds
+
+Total time: 320.2528 seconds
+
+
+
+Number of hash threads: 16
+
+Number of sort threads: 4
+
+Number of write threads: 4
+
+Filename: experiment_results/data23.bin
+
+Memory size: 128MB
+
+File size: 1024MB
+
+Record size: 16B
+
+Hash size: 10B
+
+Nonce size: 6B
+
+[hashgen3]: 100.00% completed
+
+[hashgen7]: 100.00% completed
+
+[hashgen15]: 100.00% completed
+
+[hashgen4]: 100.00% completed
+
+[hashgen11]: 100.00% completed
+
+[hashgen1]: 100.00% completed
+
+[hashgen5]: 100.00% completed
+
+[hashgen0]: 100.00% completed
+
+[hashgen12]: 100.00% completed
+
+[hashgen9]: 100.00% completed
+
+[hashgen14]: 100.00% completed
+
+[hashgen13]: 100.00% completed
+
+[hashgen2]: 100.00% completed
+
+[hashgen6]: 100.00% completed
+
+[hashgen10]: 100.00% completed
+
+[hashgen8]: 100.00% completed
+
+Hash time: 218.0485 seconds
+
+Sort time: 77.0089 seconds
+
+Write time: 27.9422 seconds
+
+Total time: 322.9995 seconds
+
+
+
+Number of hash threads: 16
+
+Number of sort threads: 4
+
+Number of write threads: 16
+
+Filename: experiment_results/data24.bin
+
+Memory size: 128MB
+
+File size: 1024MB
+
+Record size: 16B
+
+Hash size: 10B
+
+Nonce size: 6B
+
+[hashgen8]: 100.00% completed
+
+[hashgen0]: 100.00% completed
+
+[hashgen15]: 100.00% completed
+
+[hashgen10]: 100.00% completed
+
+[hashgen11]: 100.00% completed
+
+[hashgen4]: 100.00% completed
+
+[hashgen6]: 100.00% completed
+
+[hashgen1]: 100.00% completed
+
+[hashgen3]: 100.00% completed
+
+[hashgen9]: 100.00% completed
+
+[hashgen2]: 100.00% completed
+
+[hashgen7]: 100.00% completed
+
+[hashgen14]: 100.00% completed
+
+[hashgen5]: 100.00% completed
+
+[hashgen13]: 100.00% completed
+
+[hashgen12]: 100.00% completed
+
+Hash time: 216.2824 seconds
+
+Sort time: 77.0870 seconds
+
+Write time: 27.8812 seconds
+
+Total time: 321.2506 seconds
+
+
+
+Number of hash threads: 16
+
+Number of sort threads: 16
+
+Number of write threads: 1
+
+Filename: experiment_results/data25.bin
+
+Memory size: 128MB
+
+File size: 1024MB
+
+Record size: 16B
+
+Hash size: 10B
+
+Nonce size: 6B
+
+[hashgen15]: 100.00% completed
+
+[hashgen8]: 100.00% completed
+
+[hashgen12]: 100.00% completed
+
+[hashgen9]: 100.00% completed
+
+[hashgen10]: 100.00% completed
+
+[hashgen13]: 100.00% completed
+
+[hashgen5]: 100.00% completed
+
+[hashgen14]: 100.00% completed
+
+[hashgen4]: 100.00% completed
+
+[hashgen1]: 100.00% completed
+
+[hashgen11]: 100.00% completed
+
+[hashgen0]: 100.00% completed
+
+[hashgen6]: 100.00% completed
+
+[hashgen7]: 100.00% completed
+
+[hashgen2]: 100.00% completed
+
+[hashgen3]: 100.00% completed
+
+Hash time: 241.3163 seconds
+
+Sort time: 77.3846 seconds
+
+Write time: 28.3801 seconds
+
+Total time: 347.0810 seconds
+
+
+
+Number of hash threads: 16
+
+Number of sort threads: 16
+
+Number of write threads: 4
+
+Filename: experiment_results/data26.bin
+
+Memory size: 128MB
+
+File size: 1024MB
+
+Record size: 16B
+
+Hash size: 10B
+
+Nonce size: 6B
+
+[hashgen0]: 100.00% completed
+
+[hashgen1]: 100.00% completed
+
+[hashgen9]: 100.00% completed
+
+[hashgen11]: 100.00% completed
+
+[hashgen13]: 100.00% completed
+
+[hashgen15]: 100.00% completed
+
+[hashgen5]: 100.00% completed
+
+[hashgen4]: 100.00% completed
+
+[hashgen3]: 100.00% completed
+
+[hashgen2]: 100.00% completed
+
+[hashgen7]: 100.00% completed
+
+[hashgen10]: 100.00% completed
+
+[hashgen12]: 100.00% completed
+
+[hashgen14]: 100.00% completed
+
+[hashgen8]: 100.00% completed
+
+[hashgen6]: 100.00% completed
+
+Hash time: 216.1586 seconds
+
+Sort time: 76.6301 seconds
+
+Write time: 28.1887 seconds
+
+Total time: 320.9774 seconds
+
+
+
+Number of hash threads: 16
+
+Number of sort threads: 16
+
+Number of write threads: 16
+
+Filename: experiment_results/data27.bin
+
+Memory size: 128MB
+
+File size: 1024MB
+
+Record size: 16B
+
+Hash size: 10B
+
+Nonce size: 6B
+
+[hashgen1]: 100.00% completed
+
+[hashgen14]: 100.00% completed
+
+[hashgen10]: 100.00% completed
+
+[hashgen4]: 100.00% completed
+
+[hashgen3]: 100.00% completed
+
+[hashgen11]: 100.00% completed
+
+[hashgen9]: 100.00% completed
+
+[hashgen0]: 100.00% completed
+
+[hashgen5]: 100.00% completed
+
+[hashgen6]: 100.00% completed
+
+[hashgen13]: 100.00% completed
+
+[hashgen7]: 100.00% completed
+
+[hashgen15]: 100.00% completed
+
+[hashgen8]: 100.00% completed
+
+[hashgen2]: 100.00% completed
+
+[hashgen12]: 100.00% completed
+
+Hash time: 215.0515 seconds
+
+Sort time: 76.8412 seconds
+
+Write time: 27.7761 seconds
+
+Total time: 319.6688 seconds
+
