@@ -1,5 +1,5 @@
 
-#Project is Done in 2 languages Python and RUST
+# Project is Done in 2 languages Python and RUST
 
 
 This project aims to teach you about file I/O and benchmarking. You can use any of the following languages
